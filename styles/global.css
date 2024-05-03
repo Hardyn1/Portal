@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  font-size: 17px;
+  color: #615e5c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+  font-size: 50px;
+  color: #1b365d;
+}
+
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+a,
+p {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1264px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-btw {
+  justify-content: space-between;
+}
