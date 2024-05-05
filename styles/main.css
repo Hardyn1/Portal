@@ -1,0 +1,159 @@
+/* header */
+.header {
+  padding: 16px 0 6px;
+}
+
+.nav {
+  align-items: center;
+}
+
+.nav-item {
+  margin-left: 48px;
+}
+
+.nav-link {
+  color: #1b365d;
+  font-size: 16px;
+}
+
+.nav-item__log {
+  margin-left: 100px;
+}
+
+.nav-log {
+  border: 1px solid #a7bbc9;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700px;
+  display: inline-block;
+  max-width: 92px;
+  width: 100%;
+  padding: 6px 24px 5px 24px;
+  text-align: center;
+  font-weight: 700;
+  color: #1b365d;
+}
+
+/* portal */
+
+.portal {
+  background: url("../img/header.bg.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 195px 0 14px;
+}
+
+.main-second__title {
+  margin-top: 17px;
+  max-width: 327px;
+  width: 100%;
+  color: #434140;
+  font-size: 18px;
+}
+
+.main-option {
+  max-width: 327px;
+  width: 100%;
+  margin-top: 40px;
+  font-weight: 700;
+  font-size: 14px;
+  gap: 27px;
+  align-items: center;
+  margin-bottom: 124px;
+}
+
+.main-link {
+  color: #1b365d;
+  padding: 13px 36px;
+  background: #fff;
+  border-radius: 24px;
+  text-align: center;
+  display: inline-block;
+  max-width: 186px;
+  width: 100%;
+}
+
+.main-link__compare {
+  color: #1b365d;
+}
+
+.buy {
+  background: #f1c0c7;
+  max-width: 499px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  margin-top: -23px;
+}
+
+.buy-title {
+  font-size: 15px;
+}
+
+.buy-extra {
+  font-size: 14px;
+  font-weight: 400;
+  color: #1b365d;
+}
+
+/* camera */
+
+.camera {
+  padding: 59px 0 32px;
+}
+
+.offer {
+  padding-top: 18px;
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.offer-img {
+  max-width: 304px;
+  width: 100%;
+}
+
+.offer-title {
+  max-width: 682px;
+  width: 100%;
+  margin-bottom: 35px;
+}
+
+.camera-img {
+  box-shadow: 0 0 50px rgb(0 0 0 / 7%);
+}
+
+.info {
+  max-width: 1180px;
+  width: 100%;
+  margin-left: 41px;
+  margin-top: 30px;
+}
+
+.info-action {
+  max-width: 357px;
+  width: 100%;
+}
+
+.info-title {
+  font-size: 24px;
+}
+
+.info-text {
+  font-size: 17px;
+  margin-top: 11px;
+  margin-bottom: 15px;
+}
+
+.info-link {
+  font-size: 14px;
+}
+
+.info-view {
+  max-width: 357px;
+  width: 100%;
+  margin-left: 159px;
+}
